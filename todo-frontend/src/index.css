@@ -1,0 +1,40 @@
+body {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.btn-primary {
+  background-color: #d90429;
+  color: #ffffff;
+  border-color: #d90429;
+}
+
+.btn-primary:hover {
+  background-color: #854954;
+  color: #ffffff;
+  border-color: #854954;
+}
+.btn-secondary {
+  background-color: #000000;
+  color: #ffffff;
+  border-color: #000000;
+}
+
+.btn-secondary:hover {
+  background-color: #14070a;
+  color: #ffffff;
+  border-color: #14070a;
+}
+
+
+.card {
+  border: 1px solid #000;
+  border-radius: 10px;
+  padding: 1rem;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
